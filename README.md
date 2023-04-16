@@ -1,7 +1,7 @@
-blockchain
+Blockchain
 ==============================
 
-A repo for all blockchain projects.
+A repo for all Blockchain projects.
 
 Project Organization
 ------------
